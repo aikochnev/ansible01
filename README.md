@@ -44,7 +44,3 @@
 ### Необязательная часть
 
 <img src = "img/a01-09.png" width = 100%>
-
-<img src = "img/a01-10.png" width = 100%>
-
-<img src = "img/a01-11.png" width = 100%>
